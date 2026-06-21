@@ -6,6 +6,12 @@
 > 当前状态：早期公开测试版  
 > 支持平台：Windows 10 / Windows 11
 
+## 立即下载
+
+[下载灵动音 MusicFlow v0.1.0-beta](https://github.com/wzmwillwin-lab/musicflow-desktop/releases/tag/v0.1.0-beta)
+
+如果你觉得这个小工具有意思，可以给仓库点一个 Star 支持一下。
+
 ## 下载
 
 请到 Releases 页面下载最新版本：
