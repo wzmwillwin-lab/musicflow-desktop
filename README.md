@@ -2,13 +2,13 @@
 
 灵动音 MusicFlow 是一个 Windows 桌面悬浮音乐控制条，可以读取 Windows 系统媒体会话，展示当前播放歌曲、封面、进度和声波动效，并提供播放 / 暂停 / 上一首 / 下一首控制。
 
-> 当前版本：v0.1.0-beta  
+> 当前版本：v0.1.1  
 > 当前状态：早期公开测试版  
 > 支持平台：Windows 10 / Windows 11
 
 ## 立即下载
 
-[下载灵动音 MusicFlow v0.1.0-beta](https://github.com/wzmwillwin-lab/musicflow-desktop/releases/tag/v0.1.0-beta)
+[下载灵动音 MusicFlow v0.1.1](https://github.com/wzmwillwin-lab/musicflow-desktop/releases/tag/v0.1.1)
 
 如果你觉得这个小工具有意思，可以给仓库点一个 Star 支持一下。
 
@@ -16,7 +16,7 @@
 
 请到 Releases 页面下载最新版本：
 
-- `MusicControllerPortable-v0.1.0.zip`
+- `MusicControllerPortable-v0.1.1.zip`
 - `MusicController-version.json`
 - `SHA256SUMS.txt`
 
@@ -29,6 +29,9 @@
 - 当前歌曲标题、歌手和播放进度展示
 - 基础封面展示
 - 霓虹声波视觉效果
+- 空闲闪电动效
+- 浏览器音乐页支持
+- 红色未读更新角标
 - 绿色版 zip，解压后运行
 
 ## 计划适配
@@ -47,7 +50,7 @@
 
 ## 使用方式
 
-1. 下载并解压 `MusicControllerPortable-v0.1.0.zip`。
+1. 下载并解压 `MusicControllerPortable-v0.1.1.zip`。
 2. 打开你常用的音乐播放器并开始播放。
 3. 双击运行 `MusicController.exe`。
 4. 使用桌面悬浮条查看歌曲、控制播放或切歌。
